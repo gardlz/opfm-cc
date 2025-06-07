@@ -1,4 +1,6 @@
-# OPFM-CC: Cardinality-Constrained Feature Modeling
+# OPFM-CC: Operator for Feature Models - Cardinality Contrained 
+
+## Cardinality-Constrained Feature Modeling
 
 This repository contains the prototype implementation of the `#choose` operator, introduced in the paper *"#choose: A Cardinality-Constrained Operator for
 Feature Models"*.
@@ -15,4 +17,4 @@ The `#choose` construct enables bounded selection of features (e.g., in the case
 Open the Jupyter Notebook and run the cells to explore how different values of \(\alpha\) and \(\beta\) affect the generated configurations.
 
 ```bash
-jupyter notebook notebook.ipynb
+jupyter notebook opfm-cc.ipynb
