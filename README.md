@@ -9,7 +9,7 @@ The `#choose` construct enables bounded selection of features (e.g., in the case
 
 ## 📘 Contents
 
-- `notebook.ipynb` – Demonstrates how to use the `#choose` operator to generate valid configurations based on user-defined cardinality bounds.
+- `opfm-cc.ipynb` – Demonstrates how to use the `#choose` operator to generate valid configurations based on user-defined cardinality bounds.
 - `tree_example.png` – Example image showing the generated configuration decision tree.
 
 ## 🚀 How to Use
